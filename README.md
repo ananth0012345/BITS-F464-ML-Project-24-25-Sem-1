@@ -1,6 +1,6 @@
 # BITS F464: Machine Learning Assignment
 
-## A Comparative Analysis of Sequence Prediction Models for Image Transformation in the IPARC Dataset
+## Comparative Analysis of Context-Aware and Context-Free Models for Sequence Prediction on the IPARC Dataset
 
 ### Group Members:
 - **Arnav Goyal** - 2021A7PS2596G  
